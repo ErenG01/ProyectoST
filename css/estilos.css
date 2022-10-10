@@ -1,0 +1,99 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+h3{
+	font-family: arial;
+	font-size: 25pt;
+	letter-spacing: 1px;
+	width: 100%;
+	background: #7F8C8D;
+	padding: 15px;
+	color: #FFF;
+	text-align: center;
+	text-transform: uppercase;
+}
+#container{
+	background: url(../img/fondo.jpg);
+	width: 100%;
+	height: 100vh;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+} 
+#container form{
+	background: #fff;
+	width: 400px;
+	padding: 10px;
+}
+#container form img{
+	width: 130px;
+	height: 130px;
+	margin: 15px auto;
+	text-align: center;
+	display: block;
+}
+#container form input{
+	width: 90%;
+	padding: 5px;
+	font-size: 16pt;
+	display: block;
+	margin: 15px auto;
+	border-radius: 5px;
+	border: 1px solid #5D6D7E;
+	text-align: center;
+}
+#container form input[type="submit"]{
+	background: #34495E;
+	padding: 10px;
+	color: #FFF;
+	letter-spacing: 1px;
+	border: 0;
+	cursor: pointer;
+}
+#container form input[type="submit"] .btn_save{
+	background: #34495E;
+	padding: 10px;
+	color: #FFF;
+	letter-spacing: 1px;
+	border: 0;
+	cursor: pointer;
+}
+.alert{
+	font-family: arial;
+	font-size: 16px;
+	text-align: center;
+}
+.form_register label{
+	display: block;
+	font-size: 20px;
+	font-family: arial;
+	margin-left: 25px;
+}
+input,select{
+	width: 90%;
+	padding: 5px;
+	font-size: 11pt;
+	display: block;
+	margin: 25px auto;
+	border-radius: 5px;
+	border: 1px solid #85929e;
+	text-align: center;
+}
+.notItemOne option:first-child{
+	display: none;
+}
+.msg_error{
+	color: #E74C3C ;
+}
+.msg_save{
+	color: #2ECC71;
+}
+.alert p{
+	padding: 10px;
+}
