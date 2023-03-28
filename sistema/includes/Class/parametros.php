@@ -2,6 +2,6 @@
 	define("host","localhost");
 	define("user","root");
 	define("pass","");
-	define("base","asistente_virtual");
+	define("base","servitec");
 	define("charset","utf8");
  ?>

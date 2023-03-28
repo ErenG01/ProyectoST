@@ -2,7 +2,7 @@
 	$host = 'localhost';
 	$user = 'root';
 	$pass = '';
-	$db = 'asistente_virtual';
+	$db = 'servitec';
 
 	$conection = @mysqli_connect($host,$user,$pass,$db);
 

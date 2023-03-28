@@ -59,7 +59,7 @@ $nom=$valor[0]['Desc_categ'];
 
 			<label for="">buscar</label>
 			<input type="text" name="buscador" id="buscador" >
-			<input type="submit" id="btn_buscar" name="btn_buscar" value="buscar">
+			<input type="submit" id="btn_buscar" name="btn_buscar" value="buscar" >
 		
 		</form>
 	</div>
