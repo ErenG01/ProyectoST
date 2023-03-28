@@ -17,7 +17,7 @@ Para instalar el sitio, sigue estos pasos:
 
 USO
 -------------------------------------------------------------
-para saber como funciona cada parte de la apgina web te recomendamos leer el manuel "Proyecto_ST"
+para saber como funciona cada parte de la apgina web te recomendamos leer el manual "manual de usuario Proyecto_ST"
 
 
 
